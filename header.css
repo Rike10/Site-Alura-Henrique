@@ -1,0 +1,8 @@
+.fundo_tela{
+    width: 1920px;
+    height: 1080px;
+    background-image: url(".../img/BACKGROUND.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    display: inline-block;
+}
